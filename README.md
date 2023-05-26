@@ -17,7 +17,7 @@ Onderdelen:
 
 Hoe werken de pagina's? :
 
-**Het gehele project staat onder de naam (hogwarts-total-code)**
+**Het gehele project staat onder de naam (hogwarts-code-totaal)**
 
 1. je begint bij de login-form (login-hogwarts-code)
 2. je gaat daarna naar de difficulty pagina (Difficulty code)
