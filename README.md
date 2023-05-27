@@ -38,4 +38,4 @@ De Repo bestaat uit twee branches, de main & backup, het spreekt voorzich, dat w
 
 **screencasts zitten in de documentatie folder in de recording.txt bestanden en of los in de folder zelf** 
 
-
+De oude repository (heeft meer informatieve commits, over wie wat heeft gedaan) : https://github.com/Uday-Singh1/Hogwarts-BO-M7
