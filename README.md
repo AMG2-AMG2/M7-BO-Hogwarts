@@ -19,7 +19,7 @@ Onderdelen:
 3. Ashlay Steur : Progession bar, house sorter avatar-backend (js functions)
 4. Leandro : Avatar Menu, question page (Responsiveness fixes)
 
-uday's onderdeel repository met onderdelen genoemd in de screencast staan hier:
+uday's onderdeel repository met onderdelen genoemd in zijn screencast staan hier:
 https://github.com/Uday-Singh1/Hogwarts-BO-M7-herkans
 
 <br>
