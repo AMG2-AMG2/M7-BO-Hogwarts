@@ -1,7 +1,7 @@
 # Hogwarts-BO-M7
 
 TEAM #3
-In deze perioden gaan we een Escape room maken om specifiek te zijn een Persoonlijke profiel die we gaan toevoegen om een soort personalisatie te geven aan de Escape room
+In deze perioden gaan we een Escape room maken om specifiek te zijn een Persoonlijke profiel die we gaan toevoegen om een soort personalisatie te geven aan de Escape room.
 Voor de Herkansing hebben we geprobeerd om alle feedback te verwerken van educator, bijvoorbeeld het maken van een custom avatar maker, en we hebben geprobeerd om de github op te schonen.
 <br>
 <br>
