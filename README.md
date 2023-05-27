@@ -7,8 +7,9 @@ TEAM:
 Uday Singh,
 Leandro Bruijnaers,
 Halil Dogan,
-Ashlay Steur
- De opleveringen zijn grotendeels individueel  opgeleverd en staan in (Hogwarts Codes)
+Ashlay Steur 
+<br>
+De opleveringen zijn grotendeels individueel  opgeleverd en staan in (Hogwarts Codes)
 Onderdelen:
 
 1. Uday Singh : Login-form, music button en custom avatar maker
