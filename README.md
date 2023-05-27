@@ -8,8 +8,9 @@ Uday Singh,
 Leandro Bruijnaers,
 Halil Dogan,
 Ashlay Steur
-
+ De opleveringen zijn grotendeels individueel  opgeleverd en staan in (Hogwarts Codes)
 Onderdelen:
+
 1. Uday Singh : Login-form, music button en custom avatar maker
 2. Halil Dogan : Difficulty menu, music button
 3. Ashlay Steur : Progession bar, house sorter avatar-backend (js functions)
