@@ -21,6 +21,10 @@ Onderdelen:
 
 uday's onderdeel repository met onderdelen genoemd in de screencast staan hier:
 https://github.com/Uday-Singh1/Hogwarts-BO-M7-herkans
+
+<br>
+<br>
+
 wegens problemen met branches was het moeilijk om te pushen op deze repo van halil met angst dat andere bestanden werden overschreden
 
 Hoe werken de pagina's? :
